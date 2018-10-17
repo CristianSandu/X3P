@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ISO5436_2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.opengps.eu/2008/ISO5436_2">
+  <Record1 xmlns="">
+    <Revision>ISO5436 - 2000</Revision>
+    <FeatureType>SUR</FeatureType>
+    <Axes>
+      <CX>
+        <AxisType>I</AxisType>
+        <Offset>197</Offset>
+      </CX>
+      <CY>
+        <AxisType>I</AxisType>
+        <Offset>126</Offset>
+      </CY>
+      <CZ>
+        <AxisType>A</AxisType>
+        <Offset>126</Offset>
+      </CZ>
+      <Rotation>
+        <r11>1</r11>
+        <r12>0</r12>
+        <r13>0</r13>
+        <r21>0</r21>
+        <r22>1</r22>
+        <r23>0</r23>
+        <r31>0</r31>
+        <r32>0</r32>
+        <r33>1</r33>
+      </Rotation>
+    </Axes>
+  </Record1>
+  <Record2 xmlns="">
+    <Date>2018-10-16T10:15:33</Date>
+    <Creator>Dott. Sandu Cristian OPDATECH Lab</Creator>
+    <Instrument>
+      <Manufacturer>Conopoint.srl</Manufacturer>
+      <Model>HD</Model>
+      <Serial>11320456</Serial>
+      <Version>HW = Custom made, SW = v1.0</Version>
+    </Instrument>
+    <CalibrationDate>2018-10-16T10:15:33</CalibrationDate>
+    <ProbingSystem>
+      <Type>NonContacting</Type>
+      <Identification>Lens. 50 mm</Identification>
+    </ProbingSystem>
+    <Comment>L'acquisizione è avvenuta su banco ottico.</Comment>
+  </Record2>
+  <Record3 xmlns="">
+    <itemField xsi:type="xsd:unsignedLong" xmlns="http://www.opengps.eu/2008/ISO5436_2">1500</itemField>
+    <item1Field xsi:type="DataListType" xmlns="http://www.opengps.eu/2008/ISO5436_2">
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+      <Datum xmlns="">0.1</Datum>
+    </item1Field>
+    <ListDimension>1500</ListDimension>
+    <DataList>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+      <Datum>0.1</Datum>
+    </DataList>
+  </Record3>
+  <Record4 xmlns="">
+    <ChecksumFile>md5checksum.hex</ChecksumFile>
+  </Record4>
+  <VendorSpecificID xmlns="">http://www.di.univr.it/?ent=iniziativa&amp;id=7289</VendorSpecificID>
+</ISO5436_2>

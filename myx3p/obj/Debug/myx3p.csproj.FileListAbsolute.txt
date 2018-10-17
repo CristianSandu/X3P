@@ -1,0 +1,7 @@
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\bin\Debug\myx3p.exe.config
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\bin\Debug\myx3p.exe
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\bin\Debug\myx3p.pdb
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\obj\Debug\myx3p.csprojAssemblyReference.cache
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\obj\Debug\myx3p.csproj.CoreCompileInputs.cache
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\obj\Debug\myx3p.exe
+C:\Users\CristianSandu\Desktop\X3P\MyX3P\myx3p\myx3p\obj\Debug\myx3p.pdb
